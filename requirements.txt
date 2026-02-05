@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pymongo
+pandas
+nltk
+textblob
+sqlalchemy
+pymysql
