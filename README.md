@@ -93,9 +93,7 @@ The following transformations are applied to the raw review data:
 - Generate processed date values  
 - Drop unused raw columns  
 
----
 
-▶️ How to Run the Project
 -------------------
 
 ### 1️⃣ Install Dependencies
